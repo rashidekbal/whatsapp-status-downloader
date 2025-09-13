@@ -101,4 +101,4 @@ Rasid Ekbal
 ⚠️ Disclaimer
 This app is not affiliated with WhatsApp or Meta.
 It simply accesses locally cached .Statuses for personal offline viewing.
->>>>>>> 5d2c7e518e0fac05b5bb890c1b88fc84eea2e7de
+
